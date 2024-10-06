@@ -1,4 +1,4 @@
-# Attention-Guided CNNs and Vision Transformers for Precision Eye Disease Detection
+# MULTIPLE-Retinal-Disease-Classification-using-OCT-image
 
 This repository presents an innovative approach that combines **Convolutional Neural Networks (CNNs)**, **Attention-guided CNNs**, and **Vision Transformers (ViTs)** for precise eye disease detection from retinal images. The **Attention-guided CNN** extracts disease-specific features, which are then used to fine-tune a **Vision Transformer** for classification. This integrated process results in highly accurate and robust disease detection.
 
@@ -25,4 +25,4 @@ If you find this repository useful or use it in your own research, please give c
 > Chaitanya Kakade, "Optimal Detection of Diabetic Retinopathy Severity Using Attention-Based CNN and Vision Transformers," GitHub Repository, [https://github.com/prashantsingh2277/Attention-Guided-CNNs-and-Vision-Transformers-for-Precision-Eye-Disease-Detection/tree/main].
 
 ---
-# MULTIPLE-Retinal-Disease-Classification-using-OCT-image
+
